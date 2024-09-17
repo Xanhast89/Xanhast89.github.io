@@ -129,7 +129,8 @@ nav > ul {
     padding: 0 !important;
   }
   #video {
-    height: 40vw !important;
+    height: 30vw !important;
+    width: 75vw !important;
   }
 }
 
