@@ -101,6 +101,10 @@ nav > ul {
     .form-text {
       width: 70vw;
     }
+    #video {
+      height: 50vw !important;
+      width: 75vw !important;
+    }
   }
   @media (max-width: 498px) {
     .main-content {
@@ -127,10 +131,6 @@ nav > ul {
   #email {
     font-size: 0.7em !important;
     padding: 0 !important;
-  }
-  #video {
-    height: 30vw !important;
-    width: 75vw !important;
   }
 }
 
